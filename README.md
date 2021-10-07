@@ -10,11 +10,13 @@
 
 》apt install ruby
 
-》apt install got
+》apt install git
 
 》pip2 install requests
 
 》pip2 install mechanize
+
+》pip2 install gem
 
 》pip2 install lolcat
 
