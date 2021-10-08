@@ -24,7 +24,7 @@
 
 》cd MBFV2.0
 
-》python2 AND.py
+》python2 MBF.py
 
 
 NOTE 》 DON'T USE IT FOR ILLEGAL PERPOSE
